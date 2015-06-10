@@ -1,2 +1,2 @@
 # android
-omerxi mobile application for Android
+mobile application for Android
